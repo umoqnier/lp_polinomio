@@ -7,8 +7,6 @@
 #Programa: Operaciones de polinomios de grado N
 #Hecho en Python 3.6
 
-#Inicio de programa
-
 #Importando modulos
 import os
 
